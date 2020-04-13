@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1360406830 source:e:\code_c\rsa\montgomerybase32.c
+
+1425479934 source:e:\code_c\rsa\main.c
+	"stdio.h"
+
